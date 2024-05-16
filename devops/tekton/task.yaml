@@ -7,7 +7,7 @@ spec:
     - name: REPO_URL
       description: URL of the repository to clone
       type: string
-      default: https://github.com/a10networks/terraform-provider-thunder.git
+      default: https://github.com/PNimbhore/terraform-provider-thunder.git
     - name: REPO_PATH
       description: Path where the repository will be cloned
       type: string

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/a10networks/terraform-provider-thunder/thunder"
+	"github.com/PNimbhore/terraform-provider-thunder/thunder"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
 )
 

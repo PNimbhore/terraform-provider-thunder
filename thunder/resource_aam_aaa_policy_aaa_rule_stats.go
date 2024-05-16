@@ -1,8 +1,8 @@
-package thunder
+package aam_aaa_policy_aaa_rule_stats
 
 import (
 	"context"
-	edpt "github.com/a10networks/terraform-provider-thunder/thunder/axapi/endpoint"
+	edpt "github.com/PNimbhore/terraform-provider-thunder/thunder/axapi/endpoint/aam_aaa_policy_aaa_rule_stats/aam_aaa_policy_aaa_rule_stats"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/diag"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/helper/schema"
 )

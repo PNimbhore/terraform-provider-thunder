@@ -8,7 +8,7 @@ pipeline {
         string defaultValue: '0', name: 'TERRAFORM_DESTROY'
         string defaultValue: '/var/lib/jenkins/jobs/state_files', name: 'STATE_DIR_PATH'
         string defaultValue: 'thunder_gslb_group', name: 'EXAMPLE_DIR_PATH'
-        string defaultValue: 'https://github.com/a10networks/terraform-provider-thunder.git', name: 'GIT_REPOSITORY'
+        string defaultValue: 'https://github.com/PNimbhore/terraform-provider-thunder.git', name: 'GIT_REPOSITORY'
         string defaultValue: 'master', name: 'GIT_BRANCH'
     }
     stages {

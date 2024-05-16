@@ -2,8 +2,8 @@ package thunder
 
 import (
 	"fmt"
-	"github.com/a10networks/terraform-provider-thunder/thunder/axapi"
-	endpnt "github.com/a10networks/terraform-provider-thunder/thunder/axapi/endpoint"
+	"github.com/PNimbhore/terraform-provider-thunder/thunder/axapi"
+	endpnt "github.com/PNimbhore/terraform-provider-thunder/thunder/axapi/endpoint"
 	"github.com/clarketm/json"
 )
 

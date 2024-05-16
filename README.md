@@ -9,7 +9,7 @@ Terraform provider plugin will only configure thunder via axapi, It will not ins
 
 ## Support Matrix
 
-| ACOS | [TTP 1.0.0](https://github.com/a10networks/terraform-provider-thunder/tree/v1.0.0) | [TTP 1.1.0](https://github.com/a10networks/terraform-provider-thunder/tree/v1.1.0) | [TTP 1.2.1](https://github.com/a10networks/terraform-provider-thunder/tree/v1.2.1) | [TTP 1.2.2](https://github.com/a10networks/terraform-provider-thunder/tree/v1.2.2) | [TTP 1.3.0](https://github.com/a10networks/terraform-provider-thunder/tree/v1.3.0) | [TTP 1.4.1](https://github.com/a10networks/terraform-provider-thunder/tree/v1.4.1) |
+| ACOS | [TTP 1.0.0](https://github.com/PNimbhore/terraform-provider-thunder/tree/v1.0.0) | [TTP 1.1.0](https://github.com/PNimbhore/terraform-provider-thunder/tree/v1.1.0) | [TTP 1.2.1](https://github.com/PNimbhore/terraform-provider-thunder/tree/v1.2.1) | [TTP 1.2.2](https://github.com/PNimbhore/terraform-provider-thunder/tree/v1.2.2) | [TTP 1.3.0](https://github.com/PNimbhore/terraform-provider-thunder/tree/v1.3.0) | [TTP 1.4.1](https://github.com/PNimbhore/terraform-provider-thunder/tree/v1.4.1) |
 | :--------: | :-------: | :-------:  | :-------: | :-------: | :-------: | :-------: |
 | `ACOS version 6.0.2-p1` | `No`  | `No`  | `No`| `No` | `No` | `Yes` |
 | `ACOS version 6.0.1` | `No`  | `No`  | `Yes`| `Yes` | `Yes` | `No` |

@@ -2,7 +2,7 @@ package oper
 
 import (
 	"errors"
-	"github.com/a10networks/terraform-provider-thunder/thunder/axapi"
+	"github.com/PNimbhore/terraform-provider-thunder/thunder/axapi"
 	"github.com/clarketm/json"
 )
 

@@ -1,4 +1,4 @@
-module github.com/a10networks/terraform-provider-thunder
+module github.com/PNimbhore/terraform-provider-thunder
 
 go 1.16
 
